@@ -20,5 +20,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Screenshots
  
 #### Tela de Login 
-![](./src/img/formulario.jpeg)
+![](./src/img/telaLogin.jpeg)
  
